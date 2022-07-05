@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+
+@import "reset.css";
+
+.hidden {
+  display: none;
+}
+
+img {
+  width: 100vw;
+  height: 100vh;
+}
+
+li {
+  list-style: none;
+  color: white;
+}
+
+button {
+  margin-left: 15px;
+}
+
+#logout {
+  margin-top: 70px;
+}
+
+#todo {
+  overflow: auto;
+}
+
+#main-Background {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+}
+
+#clock {
+  margin-bottom: 90px;
+  color: white;
+  font-size: 160px;
+  text-shadow: 6px 2px 2px gray;
+}
+
+#login-form {
+  margin-top: 15px;
+}
+
+#greeting {
+  margin-bottom: 25px;
+  font-size: 35px;
+  color: #99cccc;
+  font-weight: 600;
+  text-shadow: 1px 1px 5px rgb(235, 236, 223);
+}
+
+#quote {
+  margin-top: 10rem;
+  color: white;
+  text-shadow: 9px 5px 5px gray;
+  font-family: Satisfy;
+  font-size: 35px;
+  font-weight: 600;
+}
+
+input {
+  width: 25rem;
+  height: 2rem;
+  margin: 25px 0px;
+  border-radius: 5px;
+  border-style: none;
+  text-align: center;
+}
