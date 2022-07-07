@@ -1,6 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
 
 @import "reset.css";
+@import "clock.css";
+@import "greeting.css";
+@import "quote.css";
+@import "weather.css";
 
 .hidden {
   display: none;
