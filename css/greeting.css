@@ -1,0 +1,8 @@
+#greeting {
+  margin-bottom: 25px;
+  font-size: 35px;
+  color: #2e5b61;
+  font-weight: 600;
+  text-shadow: 1px 1px 2px rgb(235, 236, 223);
+  text-decoration: underline;
+}
